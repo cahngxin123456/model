@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.2.0)
+  - SwiftyJSON (3.1.3)
+  - Validator (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - SwiftyJSON
+  - Validator
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - SwiftyJSON
+    - Validator
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  SwiftyJSON: 38a8ea2006779c0fc4c310cb2ee8195327740faf
+  Validator: b1793fbfd0046097551d0edd18e2c30792d69ef5
+
+PODFILE CHECKSUM: 670477d12b6782fc20567a58fadd99030b4cc909
+
+COCOAPODS: 1.5.3
